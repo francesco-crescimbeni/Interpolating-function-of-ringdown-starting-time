@@ -1,1 +1,1 @@
-# Interpolating-function-of-ringdown-starting-time
+# Interpolating function of ringdown starting time

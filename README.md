@@ -2,9 +2,9 @@
 
 Interpolating function of the starting time in the $(\eta,\chi_p,\chi_-)$ parameter, where:
 
-\begin{equation}
+$\begin{equation}
 \eta=\frac{m_1 \cdot m_2}{(m_1+m_2)^2}
-\end{equation}
+\end{equation}$
 
 # Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](

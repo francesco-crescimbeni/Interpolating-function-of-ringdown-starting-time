@@ -1,10 +1,8 @@
 # Description
 
-Interpolating function of the starting time in the $(\eta,\chi_p,\chi_-)$ parameter, where:
+Interpolating function of the starting time in the $(\eta,\chi_+,\chi_-)$ parameter, where $\eta=\frac{q}{(1+q^2)}$, $\chi_{+/-}=\frac{\chi_1+q\chi_2}{1+q}$, being $q$ and $(\chi_1,\chi_2)$ the mass ratio and the spins of the binary objects.
 
-$\begin{equation}
-\eta=\frac{m_1 \cdot m_2}{(m_1+m_2)^2}
-\end{equation}$
+
 
 # Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](

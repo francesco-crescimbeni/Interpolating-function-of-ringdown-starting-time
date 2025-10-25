@@ -1,4 +1,6 @@
-# Interpolating function of ringdown starting time
+# Description
+
+Interpolating function of the starting time in the $(\eta,\chi_p,\chi_-$ parameter.
 
 !!! To clean a bit, but the structure is ok. !!!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](

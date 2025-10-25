@@ -1,8 +1,6 @@
 # Description
 
-Interpolating function of the starting time in the $(\eta,\chi_+,\chi_-)$ parameter, where $\eta=\frac{q}{(1+q^2)}$, $\chi_{+/-}=\frac{\chi_1+q\chi_2}{1+q}$, being $q$ and $(\chi_1,\chi_2)$ the mass ratio and the spins of the binary objects.
-
-
+Interpolating function of the starting time in the $(\eta,\chi_+,\chi_-)$ parameter for a given mismatch threshold, where $\eta=\frac{q}{(1+q^2)}$, $\chi_{+/-}=\frac{\chi_1+q\chi_2}{1+q}$, being $q$ and $(\chi_1,\chi_2)$ the mass ratio and the spins of the binary objects.
 
 # Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](

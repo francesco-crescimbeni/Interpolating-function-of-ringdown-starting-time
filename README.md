@@ -6,6 +6,15 @@ Available ringdown models used for the interpolator:
 - **Cheung**, [arXiv:2310.04489](https://arxiv.org/abs/2310.04489);
 - **TEOBPM**, [arXiv:1406.0401](https://arxiv.org/abs/1406.0401).
 
+The procedure to obtain the interpoland is the following.
+
+1. For a given ringdown model, the mismatch between model and Numerical Relativity data is computed, for different harmonics and different starting times (see Eq. 17 of the paper). The results are provided in the following gitHub repository in avg_mismatches_all_times.npz.
+
+2. For a given model and $(\ell,|m|)$ harmonic, we choose a mismatch threshold, and we extrapolate its associated starting time.
+
+3. We repeat this for all the SXS simulations.
+
+4. Then, we perform an interpolation in the progenitor parameter space.
 
 # Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](

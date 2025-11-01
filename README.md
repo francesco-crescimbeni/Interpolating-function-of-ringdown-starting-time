@@ -11,10 +11,12 @@ The procedure to obtain the interpoland is the following.
 1. For a given ringdown model, the mismatch between model and Numerical Relativity data is computed, for different harmonics and different starting times (see Eq. 17 of the paper). The results are provided in the following gitHub repository in avg_mismatches_all_times.npz.
 
 2. For a given model and $(\ell,|m|)$ harmonic, we choose a mismatch threshold, and we extrapolate its associated starting time.
+  
+4. We repeat this for all the SXS simulations.
 
-3. We repeat this for all the SXS simulations.
+5. Then, we obtain a scatter plot of $t_{\rm start}(\eta,\chi_+,\chi_-|\mathcal{M}_{\rm th})$ (notebook 1).
 
-4. Then, we perform an interpolation in the progenitor parameter space.
+6. Then, we perform an interpolation in the progenitor parameter space (notebook 2).
 
 # Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](

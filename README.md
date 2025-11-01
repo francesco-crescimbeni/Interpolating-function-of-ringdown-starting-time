@@ -6,9 +6,9 @@ Available ringdown models used for the interpolator:
 - **Cheung**, [arXiv:2310.04489](https://arxiv.org/abs/2310.04489);
 - **TEOBPM**, [arXiv:1406.0401](https://arxiv.org/abs/1406.0401).
 
-The procedure to obtain the interpoland is the following.
+The procedure to obtain the interpolant is the following.
 
-1. For a given ringdown model, the mismatch between model and Numerical Relativity data is computed, for different harmonics and different starting times (see Eq. 17 of the paper). The results are provided in the following gitHub repository in avg_mismatches_all_times.npz.
+1. For a given ringdown model, the mismatch between model and Numerical Relativity (NR) data is computed, for different harmonics and different starting times (see Eq. 17 of the paper). For the NR data, we use the SXS catalog (https://data.black-holes.org/simulations/index.html). The results are provided in the following gitHub repository in avg_mismatches_all_times.npz and SXS_BBH_nonprec_nonecc_all.txt.
 
 2. For a given model and $(\ell,|m|)$ harmonic, we choose a mismatch threshold, and we extrapolate its associated starting time.
   
@@ -19,4 +19,4 @@ The procedure to obtain the interpoland is the following.
 6. Then, we perform an interpolation in the progenitor parameter space ([notebook 2](https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_interpolant_frames.ipynb)).
 
 # Contact
-For any issue, please contact francesco.crescimbeni@uniroma1.it.
+For any question or issue, please contact francesco.crescimbeni@uniroma1.it.

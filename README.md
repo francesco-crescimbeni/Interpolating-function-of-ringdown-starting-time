@@ -18,6 +18,8 @@ The procedure to obtain the interpoland is the following.
 
 6. Then, we perform an interpolation in the progenitor parameter space (notebook 2).
 
+7. By assusing a given threshold, we repeat the procedure by creating a frame of interpolating maps (notebook 3).
+
 # Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_function_animated.ipynb)

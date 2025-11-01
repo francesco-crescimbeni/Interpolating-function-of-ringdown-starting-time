@@ -19,8 +19,9 @@ The procedure to obtain the interpoland is the following.
 6. Then, we perform an interpolation in the progenitor parameter space (notebook 2).
 
 # Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_function_animated.ipynb)
+[![Open In Colab – Interpolant (Frames)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_interpolant_frames.ipynb)
+
+[![Open In Colab – Scatter](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_scatter.ipynb)
 
 # Contact
 For any issue, please contact francesco.crescimbeni@uniroma1.it.

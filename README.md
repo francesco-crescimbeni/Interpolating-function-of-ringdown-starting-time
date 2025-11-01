@@ -14,14 +14,9 @@ The procedure to obtain the interpoland is the following.
   
 4. We repeat this for all the SXS simulations.
 
-5. Then, we obtain a scatter plot of $t_{\rm start}(\eta,\chi_+,\chi_-|\mathcal{M}_{\rm th})$ (notebook 1).
+5. Then, we obtain a scatter plot of $t_{\rm start}(\eta,\chi_+,\chi_-|\mathcal{M}_{\rm th})$ ([notebook 1](https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_scatter.ipynb)).
 
-6. Then, we perform an interpolation in the progenitor parameter space (notebook 2).
-
-# Notebook
-[![Open In Colab – Interpolant (Frames)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_interpolant_frames.ipynb)
-
-[![Open In Colab – Scatter](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_scatter.ipynb)
+6. Then, we perform an interpolation in the progenitor parameter space ([notebook 2](https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_interpolant_frames.ipynb)).
 
 # Contact
 For any issue, please contact francesco.crescimbeni@uniroma1.it.

@@ -18,5 +18,7 @@ The procedure to obtain the interpolant is the following.
 
 6. Then, we perform an interpolation in the progenitor parameter space ([notebook 2](https://colab.research.google.com/github/francesco-crescimbeni/Interpolating-function-of-ringdown-starting-time/blob/main/t_start_eta_chip_chim_interpolant_frames.ipynb)).
 
+The results of points 5. and 6. are already available in the 'plots' folder.
+
 # Contact
 For any questions or issues, please contact francesco.crescimbeni@uniroma1.it and gregoriocarullo1618@gmail.com.
